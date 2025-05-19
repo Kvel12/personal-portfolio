@@ -33,5 +33,5 @@ A professional portfolio website showcasing my projects and skills as a Software
 - **LinkedIn**: [Kevin Velez](https://www.linkedin.com/in/kevinveleza2a3b823a/)
 - **Location**: Cali, Colombia
 
-📝 License
+## 📝 License
 This project is available for personal use and reference. Please contact me for any commercial usage.
